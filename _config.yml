@@ -1,7 +1,7 @@
 name: Williams Photography
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
+layout_spectrum: 0.48465
+typography_spectrum: 0.48647
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#bbbdaf'
     - '#4d7b92'
     - '#cbeaec'
-  brandStrength: 0.19958135392516851
+  brandStrength: 0.5
   lightness: 0.328922696178779
   saturation: 0.4546819918323308
   rhythmicContrast: 0.9960718685761094
