@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Williams Photography]]></title>
         <description><![CDATA[Williams Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/williams-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 19:46:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 19:46:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/williams-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56b7a413-25a6-4a4c-a5c9-a279a1b875d3.jpg">]]></description>
-            <link>undefined222b6cda-759b-4f97-9ea3-5adeddea62d0/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49c87c0-85d0-4602-9469-f8ea11677ad6.jpg" alt="" title="" />]]></description>
+            <link>https://thegrid.ai/williams-photography/222b6cda-759b-4f97-9ea3-5adeddea62d0/index.html</link>
             <guid isPermaLink="false">222b6cda-759b-4f97-9ea3-5adeddea62d0</guid>
-            <pubDate>Thu, 09 Jun 2016 19:46:00 GMT</pubDate>
+            <pubDate>Thu, 09 Jun 2016 19:46:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
