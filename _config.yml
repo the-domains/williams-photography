@@ -1,28 +1,40 @@
-name: Williams Photography
-favicon: null
-layout_spectrum: 0.48465
-typography_spectrum: 0.48647
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6505376
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#0a0a0a'
     - '#223e4c'
     - '#bbbdaf'
     - '#4d7b92'
     - '#cbeaec'
-  brandStrength: 0.5
-  lightness: 0.328922696178779
-  saturation: 0.4546819918323308
-  rhythmicContrast: 0.9960718685761094
-purpose: []
+  rhythmicContrast: 0.5555556
+typography_spectrum: 0.08781362
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Williams Photography
